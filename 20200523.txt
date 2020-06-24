@@ -6,6 +6,8 @@ https://hackmd.io/xbvYEhH1SN-vnoRr0BBS8A?view#4-Digital-Social-Innovation-%E2%80
 
 https://hackmd.io/HnqD6l_KQAC1QMVNDw6RcQ#2-Digital-Social-Innovation-%E2%80%94-TaiwanCanHelp-Audrey-Tangaudreyt---Twitter
 
+https://hackmd.io/r6T6j8Z1R0OTHVA5rwQSaQ?view#3-Digital-Social-Innovation-%E2%80%94-TaiwanCanHelp-Audrey-Tangaudreyt---Twitter
+
 ### A 0:00 - 0:10
 
 Hello! I'm Audrey Tang.I'm really happy to be here to share with you some thoughts around(on) how Taiwan countered the Coronavirus, using the power of digital social innovation.
@@ -41,3 +43,15 @@ Because of this open civil society, according to the CIVICUS monitor, Taiwan is 
 ### I 1:46 - 2:08
 
 So for example, every day our Central Epidemic Command Center(CECC) holds a press conference which is livestreamed.We work with the journalist community, they answer all questions from the journalists which is livestreamed.Because of this, whenever there’re new ideas coming from the civil society, anyone can pick their phone and call 1922 and tell the ideas to CECC.
+
+### J 2:09 - 2:31
+
+For example,there was one day in April that a youg boy that said they don’t want to go to school because schoolmates may laugh at him for wearing a pink medical mask.The very next day, everybody in the CECC press conference started wearing pink medical mask and making sure that everybody learns about gender mainstreaming, which is again a social innovation. So this kind of fast response build the trust between the government and the civil society.
+
+### K 2:32 - 2:49
+
+Another focus is fairness. For example, when we ramped up the facial mask production,making sure that everybody can use their national insurance card to collect masks from nearby pharmacies. Fairness is the guiding principle. So not only do we publish the stock levels of all the pharmacies, we actually publish it every 3 minutes.
+
+### L 2:50 - 3:11
+
+That’s why g0v and many community contributors build more than 130 tools that enables people who prefer viewing maps or people with blindness prefer to hear from voice assistant as well as people who are using the chatboxs – like Line platform, which is very popular – all of them can get the same inclusive access to the infromation about which pharmacist near them still have the masks.
